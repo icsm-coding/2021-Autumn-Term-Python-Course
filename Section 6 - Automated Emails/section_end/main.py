@@ -4,8 +4,8 @@ from datetime import datetime
 
 from patients import patients_list
 
-my_email = "icsmpython@gmail.com"
-password = 'python1999'
+my_email = YOUR_EMAIL_HERE
+password = YOUR_PASSWORD_HERE
 
 context = ssl.create_default_context()
 

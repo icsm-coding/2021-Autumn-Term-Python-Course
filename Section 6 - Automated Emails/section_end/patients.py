@@ -1,5 +1,5 @@
-email = 'codingicsm@gmail.com'
-date = '19/09/2021'
+email = 'YOUR_EMAIL_HERE'
+date = 'TODAY\'S DATE'
 
 patients_list = [
     {'name': 'Andy Murray', 'email': email, 'appointment_type': 'Double Hip Replacement', 'date': date},
