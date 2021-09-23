@@ -2,10 +2,10 @@ import requests
 
 API_ENDPOINT = 'https://api.nationalize.io'
 
-name = input('What is your name? ')
+name_input = input('What is you name? ')
 
-parameters = {'name': name}
+parameters = {'name':name_input}
 
-response = requests.get(params=parameters, url=API_ENDPOINT)
+response = requests.get(url=API_ENDPOINT, params=parameters)
 
-print(f"Most likely nationality of a person called {name} is {response.json()['country'][0]['country_id']}")
+print(response.json()['country'][0]['country_id'])

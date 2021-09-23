@@ -1,0 +1,7 @@
+Dear [patient_name],
+
+This is an email reminder that you have an appointment tomorrow at 1500 at the Imperial Medical Practise.
+The appointment is a [appointment_type].
+
+We look forward to seeing you,
+Dr. House

@@ -1,0 +1,10 @@
+Hello [name],
+
+Here is a random suggestion of something to do now:
+
+[activity]
+
+Have fun!
+
+ICSM Coding
+
