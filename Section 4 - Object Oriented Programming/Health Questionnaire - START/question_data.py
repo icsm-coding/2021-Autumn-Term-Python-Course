@@ -1,0 +1,12 @@
+questions_list = [{'question': 'How many portions of vegetables and fruits do you have per day? ',
+                   'options': ['A: Zero', 'B: One to Two', 'C: Three to Four', 'D: Five or more']},
+                  {'question': 'How many cups of caffeinated coffee do you drink every day? ',
+                   'options': ['A: Five or more', 'B: Three to Four', 'C: One to Two', 'D: Zero']},
+                  {'question': 'How many litres of water do you drink per day? ',
+                   'options': ['Less than 500ml', 'Between 500ml and a litre', 'Between 1 and 2 litres',
+                               'More than 2 litres']},
+                  {'question': 'How many bottles of mountain dew have you drunk in your life? ',
+                   'options': ['A: More than 100', 'B: Between 25 and 100', 'C: Between 10 and 25', 'D: Less than 10']},
+                  {'question': 'How many steps do you walk per day? ',
+                   'options': ['A: Less than 2000', 'B: Between 2000 and 5000', 'C: Between 5000 and 10000',
+                               'D: More than 10000']}, ]
