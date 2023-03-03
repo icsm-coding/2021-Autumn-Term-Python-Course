@@ -8,7 +8,5 @@ Clone this repository to access the starter code for each of sections in the cou
 ## Link: https://icsm-python-course.netlify.app/
 Here you will find all the course sections with their respective videos and accompanying links.
 
-![alt text](https://github.com/icsm-coding/Python-Course/blob/master/images/header.png)
-
 ## Sections of the course:
 ![alt text](https://github.com/icsm-coding/Python-Course/blob/master/images/overview.png)
